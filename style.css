@@ -1,0 +1,125 @@
+
+.Name{
+  font-size: 14;
+  font-family: Verdana;
+  text-align: center;
+}
+
+.font {
+  font: size 8.5;
+  font-family: verdana;
+}
+.Adress {
+  text-align: center;
+}
+
+
+.ruler{
+  margin-top:-20px;
+  font-weight:bolder;
+}
+
+.school {
+  float: left;
+  font-weight: bold;
+  
+}
+
+.location {
+  float:right;
+  font-weight: bold;
+}
+.course {
+  float: left;
+  font-weight: bold;
+}
+
+.graduation{
+  float: right;
+  font-weight: bold;
+}
+.combination{
+  float: left;
+  font-weight: bold; 
+}
+.date {
+  float: right;
+  font-weight: bold;
+}
+
+.activity1{
+  float: left;
+  font-weight: bold;
+}
+.activity2{
+  float: left;
+  font-weight: bold;
+}
+.activity3{
+  float: left;
+  font-weight: bold;
+}
+.activity4{
+  float: left;
+  font-weight: bold;
+}
+.project1{
+  float:left;
+  font-weight: bold
+}
+
+.mapthesystem{
+  margin-left:-20px;
+}
+.role{
+  font-weight: bold;
+}
+
+.project2{
+  float:left;
+  font-weight: bold;
+}
+.fordfunding{
+  margin-left: -20px;
+}
+.experience{
+  font-weight: bold;
+}
+.experience1{
+font-weight: bold;
+float: left;
+}
+.name{
+  font-weight: bold;
+}
+span{
+  font-weight: lighter;
+}
+
+.horizon{
+  margin-left: -20px;
+}
+.project{
+  margin-top:-30px;
+}
+.project3{
+  float:left;
+  font-weight: bold;
+}
+.curricular1{
+  float:left;
+  font-weight: bold;
+
+}
+
+.coactivity{
+  margin-left: -20px;
+}
+
+.skills{
+  margin-left: -20px;
+}
+
+.adress1{
+  list-style-type: none;
+} 
